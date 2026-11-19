@@ -3,6 +3,7 @@
 - **Soraya:** Version 1 of the ER Diagram
 - **Meliza:** Assumptions + Version 2
 - **Jamileth:** Conversion from ER Diagram to Relational Schema
+- **Derin:** Developing the website using HTML, CSS, SQL, and PHP in order to connect it all together.
 
 **Project Description:**
 
